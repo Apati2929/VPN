@@ -1,0 +1,8 @@
+# profile-title: CHERKESS VPN | CIDR | Полная • Full
+# profile-update-interval: 1
+# Date/Time: 3000-09-23 / 20:23 (Moscow)
+# Количество: 3
+# For more info @whaww
+vless://e27507cd-ae86-4554-a964-aae2b24295b4@45.144.52.36:443/?flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=reality&amp;fp=firefox&amp;sni=www.nvidia.com&amp;pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U#%F0%9F%87%AB%F0%9F%87%AEFinland%20%7C%20Helsinki
+hysteria2://e27507cd-ae86-4554-a964-aae2b24295b4@31.177.111.70:8001/?fm=%257B%250A%2520%2520%2522quicParams%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2522maxStreamReceiveWindow%2522%2520:%252026843545,%250A%2520%2520%2520%2520%2522disablePathMTUDiscovery%2522%2520:%2520false,%250A%2520%2520%2520%2520%2522maxConnectionReceiveWindow%2522%2520:%252067108864,%250A%2520%2520%2520%2520%2522keepAlivePeriod%2522%2520:%25203,%250A%2520%2520%2520%2520%2522maxIdleTimeout%2522%2520:%252020,%250A%2520%2520%2520%2520%2522initStreamReceiveWindow%2522%2520:%252026843545,%250A%2520%2520%2520%2520%2522initConnectionReceiveWindow%2522%2520:%252067108864%250A%2520%2520%257D%250A%257D&amp;type=hysteria&amp;security=tls&amp;sni=api.unio.finance&amp;alpn=h3&amp;allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AAGermany-2%20%7C%20WL%20%7C%20x5%20%7C%20HY2
+hysteria2://e27507cd-ae86-4554-a964-aae2b24295b4@31.177.111.70:8002
